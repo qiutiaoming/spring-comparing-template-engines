@@ -170,6 +170,7 @@
     <property name="prefix" value="/WEB-INF/handlebars/"/>
     <property name="suffix" value=".hbs"/>
     <property name="order" value="11"/>
+    <property name="cache" value="true" />
   </bean>
 
   <bean id="localeResolver"
